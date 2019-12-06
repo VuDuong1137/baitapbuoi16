@@ -48,20 +48,6 @@ class ViewController: UIViewController {
 //        btdangkyman1.layer.borderColor = UIColor.red.cgColor
 //        btdangkyman1.layer.cornerRadius = 10
     }
-    override func viewWillAppear(_ animated: Bool) {
-        <#code#>
-    }
-    override func viewDidAppear(_ animated: Bool) {
-        <#code#>
-    }
-    override func viewWillDisappear(_ animated: Bool) {
-        <#code#>
-    }
-    
-    override func viewDidDisappear(_ animated: Bool) {
-        <#code#>
-    }
-    
     
     @IBAction func btdangky1(_ sender: Any) {
         let stb = UIStoryboard(name: "Main", bundle: nil)
